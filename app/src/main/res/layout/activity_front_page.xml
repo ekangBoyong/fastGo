@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".FrontPageActivity"
+    android:layout_centerHorizontal="true"
+    android:layout_centerVertical="true"
+    android:orientation="vertical"
+    android:gravity="center"
+    >
+
+
+
+    <Button
+        android:layout_margin="20dp"
+        android:id="@+id/CustomerBtn"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+
+        android:text="Customer" />
+    <Button
+        android:layout_margin="20dp"
+        android:id="@+id/AdminBtn"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+
+        android:text="Admin" />
+
+
+
+</LinearLayout>

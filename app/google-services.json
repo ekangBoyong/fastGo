@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "533280914602",
+    "firebase_url": "https://fastandgo001-ca70e.firebaseio.com",
+    "project_id": "fastandgo001-ca70e",
+    "storage_bucket": "fastandgo001-ca70e.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:533280914602:android:3c9338c97f92c86b",
+        "android_client_info": {
+          "package_name": "com.example.fastandgo"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "533280914602-1u6iki7k8d4lb8kh05tg7hobr9dir4ro.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.fastandgo",
+            "certificate_hash": "f7f4f9c0332497a5e9428af962e70b9877d965f1"
+          }
+        },
+        {
+          "client_id": "533280914602-tl8nj5f2ecilo9g753kfmai80du1kfmp.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCfsVByBok114XVuxWffjQ4yoO5C7W45Mw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "533280914602-tl8nj5f2ecilo9g753kfmai80du1kfmp.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
